@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dfasjflsadfjsad hello
-=======
 dfasjflsadfjsad
->>>>>>> 041699d6f022dd686aee9ae14c391c704ae4f297
